@@ -1,11 +1,8 @@
-# terraform
-Terraform test applications
+# vpc-1
 
-# Estimating costs
+Most basic VPC setup, no modules
 
-Use https://www.infracost.io/
-
-Basic usage:
+## Estimated Cost
 
     infracost --show-skipped --tfdir .
     ✔ Running terraform init
